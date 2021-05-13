@@ -1,2 +1,2 @@
-### Searching algorithms
+# Searching Algorithms
 
