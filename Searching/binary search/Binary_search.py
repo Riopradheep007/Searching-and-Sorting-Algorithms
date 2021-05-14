@@ -3,13 +3,13 @@
 """
 Created on Fri Apr 30 17:33:33 2021
 
-@author: kpr
+@author: pradheep
 """
-
+"""
+  This algoirithm complixty is O(log n)
+"""
 def binary_Search(ls,low,high,target):
-    """
-    This algoirithm complixty is O(log n)
-    """
+
     if high>low:
         mid=(high+low)//2
         if ls[mid]==target:
