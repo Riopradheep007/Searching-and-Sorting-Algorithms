@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  7 16:16:55 2021
 
-@author: kpr
+"""
+@author: pradheep
 """
 
 
@@ -12,7 +9,7 @@ best case:O( n log n)
 worst case:O(n^2)
 
 
- When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort.
+It can be somewhat faster than merge sort and about two or three times faster than heapsort.
  
  
  Quick sort is a divide and conquer algorithm
