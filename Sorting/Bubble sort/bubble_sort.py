@@ -7,13 +7,13 @@
 """
 
 '''
-worst case  O(n^2)
-best case   O(n)
-'''
-   """
+    worst case  O(n^2)
+    best case   O(n)
+
+  
     last element is the highest number fix that number compare the other number
     worst case O(n^2)
-    """
+'''
 def bubble_sort(ls):
 
     for i in range(len(ls)-1,0,-1):
