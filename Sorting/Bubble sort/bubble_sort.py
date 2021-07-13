@@ -15,10 +15,7 @@ best case   O(n)
     worst case O(n^2)
     """
 def bubble_sort(ls):
-    """
-    last element is the highest number fix that number compare the other number
-    wordt case O(n^2)
-    """
+
     for i in range(len(ls)-1,0,-1):
         for j in range(i):
             if ls[j]>ls[j+1]:
